@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413dad95-6e63-43e1-a605-2b8ddd28ed29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -117,8 +105,16 @@
       <option name="presentableId" value="Default" />
       <updated>1578803841203</updated>
       <workItem from="1578803842463" duration="491000" />
-      <workItem from="1578804348846" duration="3501000" />
+      <workItem from="1578804348846" duration="3562000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1578808291266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578808291266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +131,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="462" y="130" key="#ESLint" timestamp="1578805736858">
       <screen x="0" y="0" width="1739" height="939" />
@@ -148,10 +148,10 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="325" y="126" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1739.939@0.0.1739.939" timestamp="1578804161294" />
-    <state x="458" y="66" key="CommitChangelistDialog2" timestamp="1578808201533">
+    <state x="458" y="66" key="CommitChangelistDialog2" timestamp="1578808290220">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="458" y="66" key="CommitChangelistDialog2/0.0.1739.939@0.0.1739.939" timestamp="1578808201533" />
+    <state x="458" y="66" key="CommitChangelistDialog2/0.0.1739.939@0.0.1739.939" timestamp="1578808290220" />
     <state x="650" y="226" key="FileChooserDialogImpl" timestamp="1578805493677">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -176,10 +176,10 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="379" y="91" key="SettingsEditor/0.0.1739.939@0.0.1739.939" timestamp="1578807953085" />
-    <state x="462" y="204" key="Vcs.Push.Dialog.v2" timestamp="1578808206686">
+    <state x="462" y="204" key="Vcs.Push.Dialog.v2" timestamp="1578808293708">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="462" y="204" key="Vcs.Push.Dialog.v2/0.0.1739.939@0.0.1739.939" timestamp="1578808206686" />
+    <state x="462" y="204" key="Vcs.Push.Dialog.v2/0.0.1739.939@0.0.1739.939" timestamp="1578808293708" />
     <state x="538" y="205" key="VcsDiffUtil.ChangesDialog" timestamp="1578808176268">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
